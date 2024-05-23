@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-projector
- Projector Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - projector
+
+Projector Proxy SDK documentation
